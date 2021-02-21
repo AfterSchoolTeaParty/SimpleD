@@ -1,0 +1,13 @@
+[This is list]This is the identifier:this is value
+[greeting]1:good morning
+[greeting]2:good day
+[greeting]3:good afternoon
+[greeting]4:good evening
+[greeting]5:good night
+[talk]1:hey
+[talk]2:hi
+[talk]3:how are you
+[talk]4:nice to meet you
+[alert]1:becareful
+[alert]2:try not to use the simpled keywords in the database
+[alert]3:especially if you use the console
